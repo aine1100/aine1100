@@ -85,7 +85,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/aine1100/aine1100/output/snake.svg" alt="Snake animation" />
 
 ###
 
