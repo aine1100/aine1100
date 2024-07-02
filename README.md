@@ -1,6 +1,9 @@
 <br clear="both">
 
 <h2 align="center">Hi 👋! My name is aine dushimire am a software developer</h2>
+<div>
+  <p>I am currently working on soulmeet and i finished travelBag fullstack app</p>
+</div>
 
 ###
 
