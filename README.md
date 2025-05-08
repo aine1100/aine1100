@@ -9,12 +9,6 @@ Full Stack Developer | Clean code enthusiast | Passionate about impactful tech
 
 ---
 
-## 📱 Current Focus
-- 🌾 Building smart agriculture systems with **Spring Boot & React**
-- 💪 Creating intuitive **fitness mobile apps** to promote healthy living
-
----
-
 ## 📫 Let’s Connect
 📧 ainedushimire@gmail.com  
 🔗 [GitHub](https://github.com/aine1100)
