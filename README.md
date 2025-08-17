@@ -1,18 +1,24 @@
-# 👋 Hello, I'm Aine Dushimire
+# 👋 Hi, I’m Aine Dushimire  
 
-Full Stack Developer | Clean code enthusiast | Passionate about impactful tech
+**Full Stack Developer** | **Builder of clean, impactful digital solutions**  
 
----
-
-## 🛠 Tech I Work With
-`Java` • `Spring Boot` • `React.js` • `MySQL` • `Firebase` • `Git`• `Postgres`• `Next Js`• `Figma`
+I enjoy turning complex ideas into **simple, elegant applications**.  
+From designing intuitive UIs to building scalable backends, I strive for code that’s clean, efficient, and future-proof.  
 
 ---
 
-## 📫 Let’s Connect
-📧 ainedushimire@gmail.com  
-🔗 [GitHub](https://github.com/aine1100)
+## ⚡ Tech Toolbox
+- **Frontend:** React.js • Next.js • Figma  
+- **Backend:** Java • Spring Boot  
+- **Databases:** MySQL • PostgreSQL • Firebase  
+- **Other:** Git • REST APIs • Agile  
 
 ---
 
-*Code that solves. Design that connects. Tech that empowers.*
+## 📬 Get in Touch
+📧 [ainedushimire@gmail.com](mailto:ainedushimire@gmail.com)  
+🔗 [GitHub](https://github.com/aine1100)  
+
+---
+
+💡 *Driven by curiosity, powered by code.*  
