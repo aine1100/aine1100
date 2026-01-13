@@ -1,10 +1,21 @@
-Aine Dushimire — Full-Stack Dev  
-Building modern web products.
+<div align="left">
 
-Now: *Neurolab* (AI tools)
+**Aine Dushimire**  
+<sub>Full-Stack Developer</sub>
 
-Stack:  
-`Next` `React` `Java` `Spring` `Postgres` `Figma`
+<br/>
 
-Contact:  
-ainedushimire@gmail.com · github.com/aine1100
+Building modern web products.  
+Currently on → **Neurolab** *(AI tools)*
+
+<br/>
+
+`Next.js` · `React` · `Java` · `Spring` · `Postgres` · `Figma`
+
+<br/>
+
+<sub>
+ainedushimire@gmail.com · <a href="https://github.com/aine1100">github.com/aine1100</a>
+</sub>
+
+</div>
